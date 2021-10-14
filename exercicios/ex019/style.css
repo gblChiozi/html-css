@@ -1,0 +1,39 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@100&family=Staatliches&display=swap');
+
+body {
+    background-color: white;
+    font-family: 'Staatliches', cursive;
+    font-weight: normal;
+}
+
+h1 {
+    color: #32A287;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1#principal {
+    text-align: center;
+    background-color: #6C464E;
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+
+h2 {
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.basico {
+    color: #44CF6C;
+}
+
+.intermediario {
+    color: #EAD94C
+}
+
+.avançado {
+    color: #FF4000
+}
+
